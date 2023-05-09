@@ -24,6 +24,280 @@
             "username": "rohit",
             "password": 12345
         }
-    ]
+    ],
+    "data": [
+        {
+            "id": 1,
+            "name": "Glucometer",
+            "description": "Onetouch Ultra Glucometer Test Strips 50s Pack",
+            "category": "Healthcare devices",
+            "price": 1249,
+            "brand": "one touch",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/131725/onetouch-ultra-glucometer-test-strips-50s-pack-2-1671740912.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Digital Thermometer",
+            "description": " omron, Measures body temperature",
+            "category": "Healthcare devices",
+            "price": 173,
+            "brand": "Omron",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/W16773/pharmeasy-digital-thermometer-2-1681796833.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Blood Pressure Monitor",
+            "description": "Omron Hem-7124 Bp Monitor",
+            "category": "Healthcare devices",
+            "price": 2125,
+            "brand": "omron",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/Y79335/omron-hem-7124-bp-monitor-2-1641788328.jpg"
+        },
+        {
+            "id": 4,
+            "name": "oxymeter",
+            "description": "Accusure Fingertip Pulse Oximeter - Yk011",
+            "category": "Healthcare devices",
+            "price": 1192,
+            "brand": "omron",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/Y43761/accusure-fingertip-pulse-oximeter-yk011-2-1671742471.jpg"
+        },
+        {
+            "id": 5,
+            "name": "steam vaporiser",
+            "description": "Jeppy Steam Cum Vaporizer 3 In 1",
+            "category": "Healthcare devices",
+            "price": 2980,
+            "brand": "one touch",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/L91441/dr-health-plus-3-in-1-steam-inhaler-2-1671741526.jpg"
+        },
+        {
+            "id": 6,
+            "name": "face wash",
+            "description": "Himalaya Purifying Neem Face Wash 150ml",
+            "category": "skin care",
+            "price": 649,
+            "brand": "himalaya",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/I35289/himalaya-purifying-neem-face-wash-150ml-2-1669710354.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Acne Treatment Cream",
+            "description": "Topical cream for treating acne",
+            "category": "skin care",
+            "price": 750,
+            "brand": "nivea",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/C84012/lite-glo-face-wash-tube-of-100-ml-2-1654165477.jpg"
+        },
+        {
+            "id": 8,
+            "name": "face wipes",
+            "description": "Liveasy Essentials Aloe Vera Refreshing And Cleansing Face Wipes-20'S",
+            "category": "skin care",
+            "price": 1023,
+            "brand": "nivea",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/N65859/liveasy-essentials-aloe-vera-refreshing-and-cleansing-face-wipes-20s-2-1671743461.jpg?dim=700x0&dpr=1&q=100"
+        },
+        {
+            "id": 9,
+            "name": "sunscreen",
+            "description": "La Shield Lite Spf 50+ & Pa+++ Anti-Tanning Sunscreen Gel 50gm",
+            "category": "skin care",
+            "price": 999,
+            "brand": "himalaya",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/I43884/sebonac-face-wash-tube-of-75-g-2-1669711239.jpg"
 
+            
+        },
+        {
+            "id": 10,
+            "name": "soap",
+            "description": "Dettol Intense Cool Bathing Soap Bar With Menthol- Buy 4 Get 1 Free - 125g Each",
+            "category": "skin care",
+            "price": 167,
+            "brand": "dettol",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/R85254/dettol-intense-cool-bathing-soap-bar-with-menthol-buy-4-get-1-free-125g-each-2-1683198775.jpg?dim=700x0&dpr=1&q=100"
+        },
+        {
+            "id": 11,
+            "name": "biotin",
+            "description": "Pharmeasy Biotin 10000mcg - For Hair, Skin & Nails - Bottle Of 60",
+            "category": "fitness supplements",
+            "price": 780,
+            "brand": "Claritin",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/D18575/pharmeasy-biotin-10000mcg-for-hair-skin-nails-bottle-of-60-2-1676757633.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Himalaya Diabecon",
+            "description": "Himalaya Diabecon Ds Tablets - 60'S",
+            "category": "fitness supplements",
+            "price": 175,
+            "brand": "himalaya",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/055337/himalaya-diabecon-ds-tablets-60s-2-1671741691.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Chyavanprashad",
+            "description": "Zandu Chyavanprashad Sugar Free Health Supplement Bottle Of 900 G",
+            "category": "fitness supplements",
+            "price": 440,
+            "brand": "dabur",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/L67281/zandu-chyavanprashad-sugar-free-health-supplement-bottle-of-900-g-2-1654232919.jpg"
+        },
+        {
+            "id": 14,
+            "name": " energy Drink",
+            "description": "Dr. Reddy'S Celevida Nutrition Drink For Diabetes Care & Immunity Support Kesar Elaichi | 400g",
+            "category": "fitness supplements",
+            "price": 418,
+            "brand": "dabur",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/X55083/dr-reddys-celevida-nutrition-drink-for-diabetes-care-immunity-support-kesar-elaichi-400g-2-1671712044.jpg"
+        },
+        {
+            "id": 15,
+            "name": " calcium tablets",
+            "description": "Carbamide Forte Calcium With Magnesium Zinc Vitamin D K2 & B12 60 Tablets",
+            "category": "fitness supplements",
+            "price": 806,
+            "brand": "himalaya",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/T46903/carbamide-forte-calcium-with-magnesium-zinc-vitamin-d-k2-b12-60-tablets-2-1671743243.jpg"
+        },
+        {
+            "id": 16,
+            "name": "sugar free sweetner",
+            "description": "Sugar Free Natura Sweetener For Fitness Conscious - 100gm Jar",
+            "category": "healthy food and drinks",
+            "price": 142,
+            "brand": "dabur",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/I20549/sugar-free-natura-sweetener-for-fitness-conscious-100gm-jar-2-1669710318.jpg"
+        },
+        {
+            "id": 17,
+            "name": "immunity booster capsule",
+            "description": "Everherb (By Pharmeasy) Ashwagandha-Immunity Booster Capsules-Anxiety & Stress Relief - Bottle Of 90",
+            "category": "healthy food and drinks",
+            "price": 699,
+            "brand": "himalaya",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/P54860/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-90-2-1681543142.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Antacid Tablets",
+            "description": "Baidyanath Amla Juice-Immunity & Omniprotection To Virus|No Added Sugar|Organically Harvested 1l",
+            "category": "healthy food and drinks",
+            "price": 1022,
+            "brand": "himalaya",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/276008/baidyanath-amla-juice-immunity-omniprotection-to-virusno-added-sugarorganically-harvested-1l-1-1669634744.jpg"
+        },
+        {
+            "id": 19,
+            "name": "diabetic tablets",
+            "description": "Everherb (By Pharmeasy) Diabetic Care - Blood Sugar Control - Bottle Of 60",
+            "category": "healthy food and drinks",
+            "price": 390,
+            "brand": "himalaya",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/F14789/everherb-by-pharmeasy-diabetic-care-blood-sugar-control-bottle-of-60-2-1654169505.jpg"
+        },
+        {
+            "id": 20,
+            "name": "granules",
+            "description": "Lactaways Elaichi Flavour Jar Of 200gm Granules",
+            "category": "healthy food and drinks",
+            "price": 367,
+            "brand": "himalaya",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products/I36951/lactaways-elaichi-flavour-jar-of-200gm-granules-2-1646660338.jpg"
+        },
+        {
+            "id": 21,
+            "name": "Moov Instant Pain Relief spray",
+            "description": "Moov Instant Pain Relief Spray - 80g | Suitable For Back Pain Joint Pain Knee Pain Muscle Pain",
+            "category": "elderly care",
+            "price": 1200,
+            "brand": "dabur",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/116770/moov-instant-pain-relief-spray-80g-suitable-for-back-pain-joint-pain-knee-pain-muscle-pain-2-1681901858.jpg"
+        },
+        {
+            "id": 22,
+            "name": "knee cap",
+            "description": "medizone Knee Cap (Pair) - Protects Knee Joints - Reduces Risk Of Injuries - Grey - Xl",
+            "category": "elderly care",
+            "price": 1239,
+            "brand": "medizone",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/A33351/pharmeasy-knee-cap-pair-protects-knee-joints-reduces-risk-of-injuries-grey-xl-1-1671779092.jpg"
+        },
+        {
+            "id": 23,
+            "name": "adult diapers",
+            "description": "Friends Economy Adult Diapers Tape Style - 10 Count (Xl) Waist 29.53- 62.99 Inch",
+            "category": "elderly care",
+            "price": 995,
+            "brand": "medizone",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/W05804/friends-economy-adult-diapers-tape-style-10-count-xl-waist-size-2992-5984-inch-76-152cm-2-1654249687.jpg"
+        },
+        {
+            "id": 24,
+            "name": "pain relief spray",
+            "description": "Liveasy Wellness Pain Relief Spray 55gm",
+            "category": "elderly care",
+            "price": 199,
+            "brand": "medizone",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/D90191/liveasy-wellness-pain-relief-spray-55gm-2-1671744109.jpg"
+        },
+        {
+            "id": 25,
+            "name": "compression band pain reliefer",
+            "description": "Tynor Ankle Binder ( Compression Pain Relief) - Large",
+            "category": "elderly care",
+            "price": 878,
+            "brand": "medizone",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/I41825/tynor-ankle-binder-compression-pain-relief-large-2-1669710850.jpg"
+        },
+        {
+            "id": 26,
+            "name": "immunity booster alovera juice",
+            "description": "Kapiva Immune Care Juice 1l | Enriched With Amla - Giloy - Ashwagandha - And 8 More Herbs",
+            "category": "ayurvedic care",
+            "price": 1400,
+            "brand": "vicks",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/E58776/kapiva-immune-care-juice-1l-enriched-with-amla-giloy-tulsi-ashwagandha-and-7-more-herbs-2-1654257245.jpg"
+        },
+        {
+            "id": 27,
+            "name": "chywanprash",
+            "description": "Baidyanath Nagpur Kesari Kalp Royal Chyawanprash - Enriched With Gold Silver And Saffron - 1 Kg",
+            "category": "ayurvedic care",
+            "price": 1078,
+            "brand": "vicks",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/G73526/baidyanath-nagpur-kesari-kalp-royal-chyawanprash-enriched-with-gold-silver-and-saffron-1-kg-2-1671744333.jpg"
+        },
+        {
+            "id": 28,
+            "name": "calcium tablets",
+            "description": "Sheneed Calcium And Vit-D Supplement For Women-Monitors Iron Level & Strong Bone Health - 60 Tablets",
+            "category": "ayurvedic care",
+            "price": 864,
+            "brand": "fitbit",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/T97676/sheneed-calcium-and-vit-d-supplement-for-women-monitors-iron-level-strong-bone-health-60-tablets-2-1671744217.jpg"
+        },
+        {
+            "id": 29,
+            "name": "immunity booster tablet",
+            "description": "Arckveda Pure Giloy Juice Natural Immunity Booster And Liver Tonic - 600 Ml",
+            "category": "ayurvedic care",
+            "price": 436,
+            "brand": "fitbit",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/Q80165/arckveda-pure-giloy-juice-natural-immunity-booster-and-liver-tonic-600-ml-2-1671743404.jpg"
+          },
+        
+        {
+            "id": 30,
+            "name": "aloe vera juice",
+            "description": "Sharrets Aloe Vera Juice For Digestion, No Flavor, No Color - Halal Certified, Gluten Free",
+            "category": "ayurvedic care",
+            "price": 1523,
+            "brand": "fitbit",
+            "image_url": "https://cdn01.pharmeasy.in/dam/products_otc/A97869/sharrets-aloe-vera-juice-for-digestion-no-flavor-no-color-halal-certified-gluten-free-2-1681283406.jpg"
+        }
+    ]
 }
